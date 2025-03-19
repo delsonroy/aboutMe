@@ -5,6 +5,7 @@ public interface DNA {
 	
 	//DNA is like the Entire Blue Print of the Body
 	
+	//Contains the structure of my brain
 	public default void what_is_DNA()
 	{
 		System.out.println(" DNA stands for Deoxyribonucleic Acid)");
