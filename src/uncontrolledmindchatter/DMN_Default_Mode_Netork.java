@@ -15,10 +15,18 @@ public class DMN_Default_Mode_Netork {
 	{
 		System.out.println("Mind chatter occurs when old emtotional memories are created");
 	}
+	public void Old_Emotional_memories_are_active2()
+	{
+		System.out.println("Mind chatter occurs when old emtotional memories are created");
+	}
 	
 	public void Default_Network_mode()
 	{
-		System.out.println("our brain’s DMN (Default Mode Network) is constantly overworking.");
+		System.out.println("You know Our brain’s DMN (Default Mode Network) is constantly overworking.");
+	}
+	public void Default1_Network_mode()
+	{
+		System.out.println("You know Our brain’s DMN (Default Mode Network) is constantly overworking.");
 	}
 
    public void auto_pilot()
