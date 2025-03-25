@@ -24,6 +24,14 @@ public class DMN_Default_Mode_Netork {
 	{
 		System.out.println("You know Our brain’s DMN (Default Mode Network) is constantly overworking.");
 	}
+	public void Default_Network_mod1()
+	{
+		System.out.println("You know Our brain’s DMN (Default Mode Network) is constantly overworking.");
+	}
+	public void Default_Network_mod3()
+	{
+		System.out.println("You know Our brain’s DMN (Default Mode Network) is constantly overworking.");
+	}
 	public void Default1_Network_mode()
 	{
 		System.out.println("You know Our brain’s DMN (Default Mode Network) is constantly overworking.");
