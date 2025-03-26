@@ -5,7 +5,10 @@ public class DMN_Default_Mode_Netork {
 	//The following methods explains the reason for Uncontrolled_MindChatter
 	
 	//In simple over active networks causes incessative mind chatter
-	
+	public void mind_narrative() 
+	{
+		System.out.println("All types of narratives are created in the mind, where neurons are fighting each other..");
+	}
 	public void stressed_anxious()
 	{
 		System.out.println("Ths method triggers when you have triggering survival instincts");
