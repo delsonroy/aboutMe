@@ -14,15 +14,19 @@ public class DMN_Default_Mode_Netork {
 		System.out.println("Ths method triggers when you have triggering survival instincts");
 	}
 	
-	public void Old_Emotional_memories_are_active()
+	public void ld_Emotional_memories_are_active1()
 	{
 		System.out.println("Mind chatter occurs when old emtotional memories are created");
 	}
-	public void Old_Emotional_memories_are_active()
+	public void ld_Emotional_memories_are_active()
 	{
 		System.out.println("Small Habits can help you make thigs dratically");
 	}
 	public void Old_Emotional_memories_are_active2()
+	{
+		System.out.println("Mind chatter occurs when old emtotional memories are created");
+	}
+	public void Old_Emotional_memories_are_active21()
 	{
 		System.out.println("Mind chatter occurs when old emtotional memories are created");
 	}
